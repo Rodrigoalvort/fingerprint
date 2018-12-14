@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "figerprintvirtualenv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false
+}
